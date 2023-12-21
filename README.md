@@ -1,6 +1,5 @@
 # Data Science Bootcamp Batch 9
-
-## this is learning data science bootcamp. 
+this is learning data science bootcamp. 
 
 ## First part
 - Intro data science
